@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"tlu-blogger","appId":"1:190818478007:android:123a170eb8e3732b162a32","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"tlu-blogger","configurations":{"android":"1:190818478007:android:123a170eb8e3732b162a32","web":"1:190818478007:web:a4afc7b5fab8f53e162a32"}}}}}}
